@@ -3926,6 +3926,14 @@ input[type="button"].btn-block {
   z-index: 1000;
 }
 
+.ads-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
 .nav {
   display: flex;
   flex-wrap: wrap;
