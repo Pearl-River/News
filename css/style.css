@@ -3931,6 +3931,16 @@ input[type="button"].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+}
+
+#SC_TBlock_880955 {
+  direction: ltr;
+  clear: both;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
   margin-top: 25px;
 }
 
