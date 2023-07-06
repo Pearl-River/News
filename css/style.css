@@ -3917,6 +3917,10 @@ input[type="button"].btn-block {
   }
 }
 
+.logo {
+  width: 10px;
+}
+
 .full {
   position: fixed;
   top: 0;
@@ -3926,22 +3930,22 @@ input[type="button"].btn-block {
   z-index: 1000;
 }
 
-.ads-bottom {
+/* .ads-bottom {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-}
+} */
 
-#SC_TBlock_880958 {
-  direction: ltr;
+#SC_TBlock_881021 {
+  /* direction: ltr;
   clear: both;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100%;
-  width: 100%;
-  margin-top: 25px;
+  width: 100%; */
+  margin-top: 15px;
 }
 
 .nav {
